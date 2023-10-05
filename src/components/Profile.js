@@ -7,8 +7,8 @@ function Profile() {
       alignItems="center"
       textAlign="center"
       py={5}
-      bgcolor="#f5f5f5"
-      borderRadius={3}
+      bgcolor="#f4f4f4"
+      borderRadius={9}
       boxShadow={3}
       spacing={2}
     >
@@ -16,8 +16,8 @@ function Profile() {
         src="/DSC_1248.JPG"
         alt="Blomst"
         sx={{
-          width: 150,
-          height: 150,
+          width: 450,
+          height: 450,
           margin: "auto",
           border: "4px solid #3f51b5",
         }}
