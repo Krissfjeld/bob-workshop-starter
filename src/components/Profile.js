@@ -9,7 +9,7 @@ function Profile() {
       py={5}
       bgcolor="#f4f4f4"
       borderRadius={9}
-      boxShadow={3}
+      boxShadow={13}
       spacing={2}
     >
       <Avatar
